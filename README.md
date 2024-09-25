@@ -58,4 +58,4 @@
 
 ## 📄 Autor
 
-- Jonathan Carvalho • @carvalhojjonathan
+- Jonathan Carvalho • @carvalhojonathan
